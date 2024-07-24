@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Toffoli
+    given-names: Clara
+    orcid: https://orcid.org/0000-0003-1705-9079
+title: "Sauna_Pi Python code"
+date-released: 2023
